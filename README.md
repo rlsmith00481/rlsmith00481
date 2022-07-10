@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rlsmith00481
 - 👀 I’m interested in python
-- 🌱 I’m currently learning pyhton applications to petroleum engineering
+- 🌱 I’m currently learning python applications to petroleum engineering
 
 - 📫 How to reach me at rlsmith00481@gmail.com
 
